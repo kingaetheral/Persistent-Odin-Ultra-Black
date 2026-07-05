@@ -1,2 +1,2 @@
 # Persistent-Odin-3-Ultra-Black
-Magisk module that makes OLED Ultra Black Mode persist across reboots on the Odin 3. Auto-applies at boot with a configurable watchdog.
+Magisk module that makes OLED Ultra Black Mode on the Odin 3 persist across reboots. Auto-applies at boot with a configurable watchdog.
